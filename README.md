@@ -25,8 +25,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-telegram-URL">
+  <a href="https://t.me/ant0ndevel0per">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
+   <a href="mailto:it-kartashov.anton@yandex.by.ru&body=привет">
+    <img src="https://img.shields.io/badge/Email-A60000?style=for-the-badge&logo=Google&logoColor=yellow" alt="Email"/>
+  </a>
+  <a href="https://github.com/gitmonstera">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=wite" alt="Email"/>
   </a>
 </div>
 
