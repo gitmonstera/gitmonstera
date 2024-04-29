@@ -5,8 +5,15 @@
 # Карташов Антон Алексеевич 
 ### Я Программист-разработчик
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
-<div>
+
+<div id="about">
+Московский государственный университет технологий и
+управления имени К.Г. Разумовского (Первый казачий
+университет), Москва
+Университетский колледж информационных технологий, 09.02.07 Информационные Системы
+и Программирование
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
   <img src="https://img.shields.io/badge/python-f5d400?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Django-006b2a?style=for-the-badge&logo=Django"/>
   <img src="https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=Kotlin"/>
@@ -16,8 +23,8 @@
   <img src="https://img.shields.io/badge/C%23-5944c1?style=for-the-badge&logo=C%23"/>
   <img src="https://img.shields.io/badge/Unity-8A2BE2?style=for-the-badge&logo=Unity"/>
   <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=PostgreSQL"/>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 
 ## Способы связи 
 <div id="coding" align="center">
