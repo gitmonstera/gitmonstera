@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/C%23-5944c1?style=for-the-badge&logo=C%23"/>
   <img src="https://img.shields.io/badge/Unity-8A2BE2?style=for-the-badge&logo=Unity"/>
   <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go"/>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
 
